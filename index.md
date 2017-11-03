@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 1. Tetris
 
+This is my first class project. I programmed a Tetris game with the language JavaFX in Eclipse.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
