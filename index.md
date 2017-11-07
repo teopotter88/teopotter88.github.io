@@ -8,9 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 1. Tetris
 
-This is my first class project. I programmed a Tetris game with the language JavaFX in Eclipse. You can find the source codes [here](https://github.com/teopotter88/Tetris). Click the video for a short overview.
+This is my first class project. I programmed a Tetris game with the language JavaFX in Eclipse. You can find the source codes [here](https://github.com/teopotter88/Tetris). 
 
-[![CLICK ON THE IMAGE TO GO TO OVERVIEW VIDEO](https://img00.deviantart.net/ce88/i/2015/038/f/7/tetris_logo_by_jmk_prime-d8h1sf0.png)](https://youtu.be/qAdGMfoSh1s)
+Click the video for a short overview.
+(https://img00.deviantart.net/ce88/i/2015/038/f/7/tetris_logo_by_jmk_prime-d8h1sf0.png)](https://youtu.be/qAdGMfoSh1s)
 
 
 
