@@ -10,6 +10,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 This is my first class project. I programmed a Tetris game with the language JavaFX in Eclipse. You can find the source codes [here](https://github.com/teopotter88/Tetris). Click the video for a short overview.
 
+[![CLICK ON THE IMAGE TO GO TO OVERVIEW VIDEO](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/qAdGMfoSh1s)
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
