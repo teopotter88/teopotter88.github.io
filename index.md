@@ -11,3 +11,11 @@ This is my first class project. I programmed a Tetris game with the language Jav
 Click image for overview video:
 
 [![Click image for overview video:](https://img00.deviantart.net/ce88/i/2015/038/f/7/tetris_logo_by_jmk_prime-d8h1sf0.png)](https://youtu.be/qAdGMfoSh1s)
+
+## 2. Pacman
+
+I programmed a Pacman game with the language JavaFX in Eclipse. You can find the source codes [here](https://github.com/teopotter88/Pacman). 
+
+Click image for overview video:
+
+[![Click image for overview video:](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pac_Man.svg/1200px-Pac_Man.svg.png]
