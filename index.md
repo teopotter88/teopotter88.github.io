@@ -18,7 +18,7 @@ I programmed a Pacman game with the language JavaFX in Eclipse. You can find the
 
 Click image for overview video:
 
-[![Click image for overview video:](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Pac_Man.svg/1200px-Pac_Man.svg.png)](https://youtu.be/LNTrzrfJYCk)
+[![Click image for overview video:](https://photos.google.com/photo/AF1QipPF7NPhrDHESaqrMuc7JUi0SNpVqRa6wjU5YQ7R)](https://youtu.be/LNTrzrfJYCk)
 
 ## 3. ChatBot
 
@@ -29,5 +29,3 @@ You can find the video [here](https://youtu.be/Va5BLrxM-LM).
 ## 4. Roll A Ball Game
 
 I made a Roll A Ball game with the program Unity using the language C# Unity. You can find the source codes [here](https://github.com/teopotter88/Roll-A-Boll-Unity)
-
-[(http://www.bobsspaceracers.com/zv20171106062358/zupload/site-options/Roll_A_Ball_logo21.jpg)]
