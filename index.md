@@ -30,4 +30,4 @@ You can find the video [here](https://youtu.be/Va5BLrxM-LM).
 
 I made a Roll A Ball game with the program Unity using the language C# Unity. You can find the source codes [here](https://github.com/teopotter88/Roll-A-Boll-Unity)
 
-![](Roll-a-ball/Screen Shot 2018-01-20 at 14.46.21.png)
+![](Roll-a-ball/Screen%20Shot%202018-01-20%20at%2014.46.21.png)
